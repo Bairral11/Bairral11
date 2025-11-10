@@ -2,7 +2,7 @@
 
 **`Estudante de Sistemas de informação`**
 
-Me chamo João Vitor Bairral, tenho 19 anos e sou natural de Niterói, RJ. Comeiçei programando em python enquanto ainda estava na escola e atualmente estou cursando sistemas de informação na Uni LaSalle. Sou apaixonado por programação e por resolver desafios de lógica através de códigos. Para conhecer mais sobre mim acesse o meu [LinkedIn](https://www.linkedin.com/in/joão-vitor-bairral-harrison-466224324)!
+Me chamo João Vitor Bairral, tenho 19 anos e sou natural de Niterói, RJ. Comecei programando em python enquanto ainda estava na escola e atualmente estou cursando sistemas de informação na Uni LaSalle. Sou apaixonado por programação e por resolver desafios de lógica através de códigos. Para conhecer mais sobre mim acesse o meu [LinkedIn](https://www.linkedin.com/in/joão-vitor-bairral-harrison-466224324)!
 
 
 <p align="left">
