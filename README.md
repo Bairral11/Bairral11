@@ -1,16 +1,61 @@
-## Hi there 👋
+#💻 João Vitor Bairral
 
-<!--
-**Bairral11/Bairral11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Estudante de Sistemas de informação`**
 
-Here are some ideas to get you started:
+Me chamo João Vitor Bairral, tenho 19 anos e sou natural de Niterói, RJ. Comeiçei programando em python enquanto ainda estava na escola e atualmente estou cursando sistemas de informação na Uni LaSalle. Sou apaixonado por programação e por resolver desafios de lógica através de códigos. Para conhecer mais sobre mim acesse o meu [LinkedIn](https://www.linkedin.com/in/joão-vitor-bairral-harrison-466224324)!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="left">
+    <a href="https://github.com/Bairral11?tab=followers">
+        <img alt="seguidores" title="Me siga no Github" src="https://custom-icon-badges.demolab.com/github/followers/Bairral11?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+    </a>
+    <a href="https://github.com/Bairral11?tab=repositories&sort=stargazers">
+        <img alt="estrelas" title="Minhas estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Bairral11?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+    </a>
+    <a href>
+</p>
+
+---
+
+### 🤖Linguagens e Habilidades
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"
+/>
+          
+<img
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<img
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" 
+/>
+
+<br>
+
+### 👾 Estatísticas
+![Bairral's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bairral11&show_icons=true&theme=tokyonight&include_all_commits=true)
