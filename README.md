@@ -4,17 +4,6 @@
 
 Me chamo João Vitor Bairral, tenho 19 anos e sou natural de Niterói, RJ. Comecei programando em python enquanto ainda estava na escola e atualmente estou cursando sistemas de informação na Uni LaSalle. Sou apaixonado por programação e por resolver desafios de lógica através de códigos. Para conhecer mais sobre mim acesse o meu [LinkedIn](https://www.linkedin.com/in/joão-vitor-bairral-harrison-466224324)!
 
-
-<p align="left">
-    <a href="https://github.com/Bairral11?tab=followers">
-        <img alt="seguidores" title="Me siga no Github" src="https://custom-icon-badges.demolab.com/github/followers/Bairral11?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-    </a>
-    <a href="https://github.com/Bairral11?tab=repositories&sort=stargazers">
-        <img alt="estrelas" title="Minhas estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Bairral11?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-    </a>
-    <a href>
-</p>
-
 ---
 
 ### 🤖Linguagens e Habilidades
